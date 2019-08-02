@@ -10,8 +10,8 @@ spring:
       label: master
       server:
         git:
-          uri:
-          search-paths:
+          uri: https://github.com/gongjian1990/springcloud-demo
+          search-paths: respo
           username:
           password:
 
