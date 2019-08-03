@@ -25,7 +25,6 @@
         <module>springcloud-eureka-client</module>
         <module>springcloud-zuul</module>
         <module>springcloud-service-feign</module>
-        <module>springcloud-config-server</module>
     </modules>
 
     <dependencies>
